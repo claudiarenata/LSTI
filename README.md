@@ -1,0 +1,2 @@
+# LSTI
+Tugas LSTI 
